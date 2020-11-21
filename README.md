@@ -15,3 +15,5 @@ Which microservices are part of my service mesh?
 How are they connected?
 How are they performing?
 How can I operate on them?
+
+I shall be updating the config files which can help us to setup istio in minimal amount of time
